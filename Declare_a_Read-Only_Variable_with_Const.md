@@ -15,5 +15,6 @@ Change the code so that all variables are declared using let or const. Use let w
 
 SOLUTION:
 
-const fCC = "freeCodeCamp";
+const FCC = "freeCodeCamp";
 let fact = "is cool!";
+console.log(FCC, fact);
