@@ -1,3 +1,6 @@
+# Explore Differences Between The var And let
+
+
 One of the biggest problems with declaring variables with the var keyword is that you can easily overwrite variable declarations:
 
 var camper = "James";

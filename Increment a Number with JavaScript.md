@@ -1,3 +1,6 @@
+# Increment A Number With JavaScript
+
+
 You can easily increment or add one to a variable with the ++ operator.
 
 i++;

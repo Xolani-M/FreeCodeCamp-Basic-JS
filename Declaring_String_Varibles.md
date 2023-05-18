@@ -1,3 +1,6 @@
+# Declaring_String_Varibles
+
+
 Previously you used the following code to declare a variable:
 
 var myName;
