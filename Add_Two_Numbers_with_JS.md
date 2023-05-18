@@ -1,3 +1,5 @@
+# Add Two Numbers with JavaScript
+
 Number is a data type in JavaScript which represents numeric data.
 
 Now let's try to add two numbers using JavaScript.
